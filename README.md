@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="banner.png" alt="Yash Shukla Banner"/>
+</p>
 # Hi 👋, I'm Yash Shukla
 
 ### Software Engineer | Java Developer | Spring Boot | Microservices

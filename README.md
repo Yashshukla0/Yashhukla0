@@ -2,20 +2,12 @@
 <p align="center">
   <img src="banner.png" alt="Yash Shukla Banner"/>
 </p>
+
 # Hi 👋, I'm Yash Shukla
 
 ### Software Engineer | Java Developer | Spring Boot | Microservices
 
 💻 Currently working at Nucleus Software Exports Ltd.
-
-🌱 Learning:
-
-* Advanced Java
-* Spring Boot
-* Microservices
-* Kafka
-* System Design
-* Docker & Kubernetes
 
 🚀 Building:
 
@@ -23,18 +15,11 @@
 * Distributed Systems Projects
 * Full Stack Applications
 
-💬 Ask me about:
-
-* Java
-* Spring Boot
-* DSA
-* SQL
-* Microservices
 
 📫 Reach me at:
 
-* LinkedIn: YOUR_LINKEDIN
-* Email: YOUR_EMAIL
+* LinkedIn: linkedin.com/in/yash-shukla-5b65a220a
+* Email: vatmat24@gmail.com
 
 ---
 
@@ -54,18 +39,6 @@
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashshukla0\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashshukla0\&layout=compact\&theme=tokyonight)
-
----
-
-### Featured Projects
-
-⭐ Stock Tracker Microservices
-
-⭐ AI Assistant
-
-⭐ PG Management System
-
-⭐ Portfolio Website
 
 ---
 

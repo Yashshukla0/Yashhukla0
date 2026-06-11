@@ -18,7 +18,7 @@
 
 📫 Reach me at:
 
-* LinkedIn: linkedin.com/in/yash-shukla-5b65a220a
+* LinkedIn: [linkedIn](https://www.linkedin.com/in/yash-shukla-5b65a220a/)
 * Email: vatmat24@gmail.com
 
 ---
